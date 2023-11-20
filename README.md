@@ -1,0 +1,2 @@
+# nicos
+kalkulator finansowy
