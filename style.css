@@ -1,0 +1,50 @@
+.opcjapierwsza {
+    float: left;
+    width: 50%;
+    height: 100%;
+    color: black;
+    text-align: center;
+}
+.opcjadruga {
+    float: right;
+    width: 50%;
+    height: 100%;
+    color: black;
+    text-align: center;
+}
+.wysokosc_raty {
+    float: left;
+    width: 50%;
+    height: 450px;
+    color: black;
+    text-align: center;
+}
+.wzorjeden {
+    float: right;
+    width: 50%;
+    height: 450px;
+}
+.wysokosc_raty_dwa {
+    float: left;
+    width: 50%;
+    height: 450px;
+    color: black;
+    text-align: center;
+}
+.wzordwa {
+    float: right;
+    width: 50%;
+    height: 450px;
+}
+.zysk_raty {
+    float: left;
+    width: 600px;
+    height: 450px;
+    color: black;
+    text-align: center;
+}
+.wzorzyskraty {
+    float: right;
+    width: 600px;
+    height: 450px;
+}

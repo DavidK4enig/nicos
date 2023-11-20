@@ -1,0 +1,16 @@
+$R = $A*(1+($b/$m)^$n)*(1+($b/$m)-1)/[(1+($b/$m)^$n)-1];
+
+    $R = "";
+    $R = $m*$b;
+    echo $R;
+
+    (float)$R = "";
+    $wynik = "";
+    (float)$R = $A*(1+($b/$m)$n*$n)*(1+($b/$m)-1)/[(1+($b/$m)$n*$n)-1];
+    echo (float)$R;
+
+    $dwa = (1+($b/$m)-1);
+    $trzy = ((1+($b/$m)*$n*$n)-1);
+    echo $jeden;
+    echo $dwa;
+    echo $trzy;

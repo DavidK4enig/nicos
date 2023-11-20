@@ -1,0 +1,37 @@
+Michal Lewczak, David Konig, Michal Mliczewski
+---
+12.11.2023 godzina 12-15
+	przygotowania ogolu projektu
+	omowienie pracy w zespole
+	Ogolny wyglad strony oraz projektu
+
+12.11.2023 godzina 15-18
+	zastanawianie sie nad podpunktem 1
+	zastanawianie sie nad podpunktem 2
+	praktyczne programowanie strony
+	css
+	html
+
+14.11.2023 godzina 19-21
+	zastanawianie sie nad wzorem uzytym na stronie internetowej
+	praktyczne programowanie strony
+	css
+	html
+	php
+
+16.11.2023 godzina 20-22
+	zastanawianie sie nad wzorem uzytym na stronie internetowej
+	praktyczne programowanie strony
+	css
+	html
+	php
+
+19.11.2023 godzina 11:30-14
+	zastanawianie sie nad wzorem uzytym na stronie internetowej
+	praktyczne programowanie strony
+	css
+	html
+	php
+	
+	
+	
