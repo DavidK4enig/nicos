@@ -32,6 +32,13 @@ Michal Lewczak, David Konig, Michal Mliczewski
 	css
 	html
 	php
+27.11.2023 godzina 12-13:10
+	zastanawianie sie nad wzorem uzytym na stronie internetowej
+	praktyczne programowanie strony
+	css
+	html
+	php
+	zakonczenie robienia projektu
 	
 	
 	
