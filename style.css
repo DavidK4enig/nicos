@@ -36,15 +36,27 @@
     width: 50%;
     height: 450px;
 }
-.zysk_raty {
+.zysk_lokaty {
     float: left;
-    width: 600px;
+    width: 50%;
     height: 450px;
     color: black;
     text-align: center;
 }
-.wzorzyskraty {
+.wzor_zysk_lokaty {
     float: right;
-    width: 600px;
+    width: 50%;
+    height: 450px;
+}
+.zysk_lokaty_dwa {
+    float: left;
+    width: 50%;
+    height: 450px;
+    color: black;
+    text-align: center;
+}
+.wzor_zysk_lokaty_dwa {
+    float: right;
+    width: 50%;
     height: 450px;
 }
